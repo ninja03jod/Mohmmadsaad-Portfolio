@@ -12,6 +12,7 @@ This portfolio website for Saad Bagwan showcases skills, projects, and experienc
 - **style.css**: Main stylesheet for general styles.
 - **mediaqueries.css**: Stylesheet for responsive design.
 - **script.js**: JavaScript file for interactive features.
+- **tst.css**: Testing Styles.
 - **assets/**: Folder containing all images in JPG and PNG formats used across the site.
 
 ## How to Run
